@@ -17,25 +17,25 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/NickStrupat/Model7000TestScannerApp/master/57x57.png</string>
+					<string>https://github.com/NickStrupat/Model7000TestScannerApp/raw/master/57x57.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/NickStrupat/Model7000TestScannerApp/master/512x512.png</string>
+					<string>https://github.com/NickStrupat/Model7000TestScannerApp/raw/master/512x512.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>com.covariant.io</string>
+				<string>io.covariant.model7000</string>
 				<key>bundle-version</key>
-				<string>0.0.2</string>
+				<string>0.0.1</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>model7000scanner</string>
+				<string>Model 7000 Scanner</string>
 			</dict>
 		</dict>
 	</array>
